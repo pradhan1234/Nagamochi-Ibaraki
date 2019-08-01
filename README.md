@@ -1,5 +1,4 @@
-# ATN HW5
-## Nagamochi Ibaraki Algorithm
+# Nagamochi Ibaraki Algorithm
 
 Create an implementation of the Nagamochi-Ibaraki algorithm (see in the lecture notes) for finding a minimum cut in an undirected graph, and experiment with it.
 
